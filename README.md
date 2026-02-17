@@ -81,6 +81,7 @@ Run all cells sequentially.
 ---
 
 # 2. Fine-Tuning
+- GPU acceleration is recommended for training.
 
 ## 2.1 fine_tuning_SMART_SCAFFOLD.ipynb
 
@@ -155,7 +156,5 @@ Follow the prompts to:
 # Notes
 
 - Keep MAX_LENGTH consistent across all notebooks.
-- GPU acceleration is recommended for training.
-- Large model files (.keras, .pkl) may require Git LFS.
 - Vocabulary files must correspond to the specific trained model.
 
