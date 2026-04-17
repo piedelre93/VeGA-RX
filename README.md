@@ -157,4 +157,7 @@ Follow the prompts to:
 
 - Keep MAX_LENGTH consistent across all notebooks.
 - Vocabulary files must correspond to the specific trained model.
+---
 
+# Publication
+https://pubs.acs.org/doi/10.1021/acs.jcim.6c00535
